@@ -101,7 +101,7 @@
             display-name = "Base";
             sensor-bindings =
                 <&enc_vol>,
-                <&enc_vol>,
+                <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>,
                 <&enc_vol>,
                 <&enc_vol>,
                 <&enc_vol>,
@@ -120,7 +120,7 @@
 
             sensor-bindings =
                 <&enc_vol>,
-                <&enc_vol>,
+                <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>,
                 <&enc_vol>,
                 <&enc_vol>,
                 <&enc_vol>,
