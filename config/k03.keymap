@@ -27,9 +27,7 @@
             >;
 
             display-name = "Base";
-            sensor-bindings =
-                <&enc_vol>,
-                <&inc_dec_kp C_AC_SCROLL_UP C_AC_SCROLL_DOWN>;
+            sensor-bindings = <&enc_vol>, <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         nav {
