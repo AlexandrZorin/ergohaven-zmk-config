@@ -21,7 +21,6 @@
             bindings = <&kp RA(NUMBER_3)>;
             key-positions = <3 58>;
             layers = <0>;
-            timeout-ms = <50>;
         };
     };
 
