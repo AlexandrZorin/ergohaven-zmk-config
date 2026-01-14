@@ -19,7 +19,7 @@
 
         alt_f4 {
             bindings = <&kp RA(F4)>;
-            key-positions = <58 2>;
+            key-positions = <3 58>;
         };
     };
 
