@@ -17,7 +17,7 @@
     combos {
         compatible = "zmk,combos";
 
-        alt_f4 {
+        combo_alt_f4 {
             bindings = <&kp RA(NUMBER_3)>;
             key-positions = <3 58>;
             layers = <0>;
