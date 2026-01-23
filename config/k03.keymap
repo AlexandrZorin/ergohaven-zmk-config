@@ -18,8 +18,8 @@
         compatible = "zmk,combos";
 
         combo_alt_f4 {
-            bindings = <&kp RA(F4)>;
-            key-positions = <3 57>;
+            bindings = <&kp LA(F4)>;
+            key-positions = <3 58>;
             timeout-ms = <2000>;
             layers = <0>;
         };
