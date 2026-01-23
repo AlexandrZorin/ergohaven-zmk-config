@@ -21,7 +21,7 @@
             bindings = <&kp RA(F4)>;
             key-positions = <58 3>;
             layers = <0>;
-            timeout-ms = <145>;
+            timeout-ms = <2000>;
         };
     };
 
@@ -38,7 +38,7 @@
             >;
 
             display-name = "Base";
-            sensor-bindings = <&enc_vol>, <&inc_dec_kp LA(TAB) LA(LS(TAB))>;
+            sensor-bindings = <&enc_vol>, <&inc_dec_kp UP_ARROW DOWN_ARROW>;
         };
 
         nav {
