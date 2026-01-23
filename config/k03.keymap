@@ -21,6 +21,7 @@
             bindings = <&kp RA(F4)>;
             key-positions = <58 3>;
             timeout-ms = <2000>;
+            layers = <0>;
         };
     };
 
